@@ -8,3 +8,5 @@ export const handler: Handler = async (_event) => {
     body: `${Example.hello()} Linked to ${Resource.Uploads.name}.`,
   };
 };
+
+
